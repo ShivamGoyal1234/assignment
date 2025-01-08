@@ -7,7 +7,7 @@ o Branch Filtering
 
 To Run the application
 
-Cone the repo  - https://github.com/ShivamGoyal1234/assignment.git
+Clone the repo  - https://github.com/ShivamGoyal1234/assignment.git
 
 cd Backend
 1) npm install
@@ -20,5 +20,5 @@ cd my-grid-app
 
 
 
-
+Note: - env is included for both backend and my-grid-app
 
